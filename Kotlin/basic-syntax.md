@@ -1,0 +1,119 @@
+> 출처 : Kotlin 공식문서, 만들면서 배우는 코틀린&안드로이드 프로그래밍, 깡쌤의 안드로이드
+
+<br>
+
+# 코틀린 기본 문법
+
+
+## 패키지 선언
+패키지 정의는 소스파일의 최상단에 위치해야한다.
+```kotlin
+    package project.demo
+
+    import kotlin.test.*
+```
+
+## 프로그램의 시작
+Kotlin은 java와 동일하게 main함수가 먼저 실행된다.
+```kotlin
+    fun main(){
+        println("Hellow world")
+    }
+    // kotlin은 다양한 인수를 허용한다.
+    fun main(args : Array<String>) {
+        println(args.contentToString())
+    }
+
+```
+
+<br><br>
+
+## 출력문
+kotlin은 기본적으로 print()를 사용한다.
+```kotlin
+    print("Hello ") 
+    print("World!")
+    // Hello World!
+```
+줄바꿈을 원한다면 println()을 사용한다.
+```kotlin
+    println("Hello world!")
+    println(42)
+    // Hello world!
+    // 42
+```
+# ${}이런거 추가
+
+
+
+<br><br>
+
+## 함수
+두개의 Int형 인수를 받고, Int타입을 return하는 함수의 형태는 다음과 같다.
+```kotlin
+    fun sum(a : Int, b : Int) : Int {
+        return a+b
+    }
+```
+함수의 본문을 표현식으로 나타낼 수 도 있으며,  
+이 경우에는 반환값이 유추될 수 있다.
+```kotlin
+    fun sum(a: Int, b: Int) = a + b
+```
+반환값이 없을 경우에는 Unit으로 표현할 수 있다.
+```kotlin
+    fun printSum(a: Int, b: Int): Unit {
+        println("sum of $a and $b is ${a + b}")
+    }
+```
+또한 Unit은 생략가능하다.
+```kotlin
+    fun printSum(a: Int, b: Int) {
+        println("sum of $a and $b is ${a + b}")
+    }
+``` 
+
+<br><br>
+
+## 변수
+(지역) 상수변수는 키워드 val을 통해 정의한다.  
+ 상수이기 때문에 값변경은 금지되며, 즉시할당과 지연할당이 가능하다.
+```kotlin
+    val a : Int = 1     //즉시할당
+    val b = 2           //'Int' type이 유추됨
+    val c : Int         //즉시할당이 아닌 경우 type지정 필수
+    c = 3               //지연할당
+``` 
+
+상수가 아닌 일반 변수를 선언할 경우 키워드 var을 사용한다.
+```kotlin
+    val x : Int = 5
+    val y = 6           //'Int' type이 유추됨
+``` 
+<br><br>
+
+## 클래스 생성
+클래스 정의는 키워드 class를 사용한다.
+```kotlin
+    class Shape
+``` 
+클래스의 속성은 클래스의 본문이나 선언문에 나열될 수 있다.
+```kotlin
+    class Rectangle(var height: Double, var width: Double){
+        var parameter = (height+width)*2
+    }
+``` 
+클래스 선언에 나열된 매개변수가 있는 기본 생성자는 자동으로 생성된다.
+```kotlin
+    var rect = Rectangle(5.0,10.0)
+    println("둘레는 ${rect.parameter}입니다.")
+``` 
+
+클래스간의 상속은 콜론(:)을 통해 선언한다. 클래스는 기본적으로 final이다.
+```kotlin
+    open class Shape
+    class Rectangle(var height: Double, var width: Double) : Shape() {
+        var parameter = (height+width)*2
+    }
+
+``` 
