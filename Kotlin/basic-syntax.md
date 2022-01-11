@@ -117,3 +117,125 @@ kotlin은 기본적으로 print()를 사용한다.
     }
 
 ``` 
+
+<br><br>
+
+## 주석
+Java나 C 등 다른 대부분의 언어처럼 다음과 같이 주석을 작성한다.
+```kotlin
+    //  one-line-comment
+
+    /*  multi-line-comment
+        multi-line-comment  */
+``` 
+
+<br><br>
+
+## 문자열 형식
+```kotlin
+    var a = 1
+    val s1 = "a is $a" 
+
+    a = 2
+    val s2 = "${s1.replace("is", "was")}, but now is $a"
+
+    //a was 1, but now is 2
+
+```
+
+## 조건문
+if문
+```kotlin
+    fun maxOf(a: Int, b: Int): Int {
+        if (a > b) {
+            return a
+        } else {
+            return b
+        }
+    }
+``` 
+Kotlin에서는 단일 표현으로 if문을 사용할 수 있다.
+```kotlin
+    fun maxOf(a: Int, b: Int) = if (a > b) a else b
+``` 
+
+
+## 반복문
+for문 1
+```kotlin
+    val items = listOf("apple", "banana", "kiwifruit")
+    for (it in items) {
+        println(it)
+    }
+    //  apple
+    //  banana
+    //  kiwifruit 
+```
+for문 2
+```kotlin
+    val items = listOf("apple", "banana", "kiwifruit")
+    for (index in items.indices) {
+        println("item at $index is ${items[index]}")
+    }
+```
+while문
+```kotlin
+    val items = listOf("apple", "banana", "kiwifruit")
+    var index = 0
+    while (index < items.size) {
+        println("item at $index is ${items[index]}")
+        index++
+    }
+```
+
+
+## when문
+Java의 switch와 비슷한 기능을 하지만, switch와는 다르게 int형이 아닌 다른 자료형(객체 포함)도 사용할 수 있음
+```kotlin
+    fun describe(obj: Any): String =
+    when (obj) {
+        1          -> "One"
+        "Hello"    -> "Greeting"
+        is Long    -> "Long"
+        !is String -> "Not a string"
+        else       -> "Unknown"
+    }
+```
+
+
+## 범위 표현
+in 연산자를 사용하여 
+```kotlin
+    val x = 10
+    val y = 9
+    if (x in 1..y+1) {
+        println("fits in range")
+    }
+```
+```kotlin
+    val list = listOf("a", "b", "c")
+
+    if (-1 !in 0..list.lastIndex) {
+        println("-1 is out of range")
+    }
+    if (list.size !in list.indices) {
+        println("list size is out of valid list indices range, too")
+    }
+```
+```kotlin
+    for (x in 1..5) {
+        print(x)
+    }
+```
+```kotlin
+    for (x in 1..10 step 2) {
+        print(x)
+    }
+    println()
+    for (x in 9 downTo 0 step 3) {
+        print(x)
+    }
+```
+
+
+## Collections

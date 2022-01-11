@@ -34,9 +34,9 @@
 
 ## Kotlin
 * [overview](./Kotlin/overview.md)
-* basic
+* [basic syntax](./Kotlin/basic-syntax.md)
 
 
 ## Python
 * [language feature](./Python/language-feature.md)
-* [basic](./Python/basic.md)
+* [basic](./Python/basic-syntax.md)
