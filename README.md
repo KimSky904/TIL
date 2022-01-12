@@ -2,9 +2,9 @@
     하루동안 공부한 내용을 정리하고 기록합니다.  
     start 2022.01.05 
 
-[![tistory](./tistory.png)](https://code-review.tistory.com/) 
-[![tistory](./notion.png)](https://foggy-silica-61a.notion.site/TIL-ee6830b8923f44e2951f13ad55516e69) 
-[![tistory](./evernote.png)](https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90) 
+<a href="https://code-review.tistory.com/" target="_blank"><img src="./tistory.png"></a>
+<a href="https://foggy-silica-61a.notion.site/TIL-ee6830b8923f44e2951f13ad55516e69" target="_blank"><img src="./notion.png"></a>
+<a href="https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90" target="_blank"><img src="./evernote.png"></a>
 
 <br>
 
@@ -28,7 +28,7 @@
 
 ## 👇 Monthly goal (2022.01.11)
     > 컴활 1급 필기
-    > [clone] 배달의 민족 pj 20% 구현
+    > [clone] 배달의 민족 pj 5% 구현
 
 <br>
 
@@ -48,7 +48,7 @@
 
 ## Python
 * [overview](./Python/overview.md)
-* [basic](./Python/basic-syntax.md)
+* [basic syntax](./Python/basic-syntax.md)
 
 <br>
 
