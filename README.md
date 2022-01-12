@@ -23,7 +23,7 @@
 ## 👇 Weekly goal (2022.01.11)
     > Cospro Python 자격증 준비
     > [clone] 배달의 민족 pj
-       > spring 강의
+        > spring 강의
         > kotlin 기본문법
 
 ## 👇 Monthly goal (2022.01.11)
@@ -32,11 +32,24 @@
 
 <br>
 
+
+## Chapter
+🎈 [Kotlin](#Kotlin)  
+🎈 [Python](#Python)  
+🎈 [spring](#Python)
+
+<br>
+
 ## Kotlin
 * [overview](./Kotlin/overview.md)
 * [basic syntax](./Kotlin/basic-syntax.md)
 
+<br>
 
 ## Python
-* [language feature](./Python/language-feature.md)
+* [overview](./Python/overview.md)
 * [basic](./Python/basic-syntax.md)
+
+<br>
+
+## spring
