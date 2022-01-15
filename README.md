@@ -21,14 +21,12 @@
 <br>
 
 ## 👇 Weekly goal (2022.01.11)
-    > Cospro Python 자격증 준비
-    > [clone] 배달의 민족 pj
-        > spring 강의
-        > kotlin 기본문법
+    > 공백
 
-## 👇 Monthly goal (2022.01.11)
-    > 컴활 1급 필기
-    > [clone] 배달의 민족 pj 5% 구현
+## 👇 Monthly goal (2022.01.15)
+    > Cospro Java 1급
+    > Cospro C 2급
+    > [clone] 개인 pj 준비과정 기록
 
 <br>
 
