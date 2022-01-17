@@ -2,13 +2,23 @@
     하루동안 공부한 내용을 정리하고 기록합니다.  
     start 2022.01.05 
 
-<a href="https://code-review.tistory.com/" target="_blank"><img src="./tistory.png"></a>
-<a href="https://foggy-silica-61a.notion.site/TIL-ee6830b8923f44e2951f13ad55516e69" target="_blank"><img src="./notion.png"></a>
-<a href="https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90" target="_blank"><img src="./evernote.png"></a>
+<a href="https://code-review.tistory.com/" target="_blank"><img src="./img/tistory.png"></a>
+<a href="https://foggy-silica-61a.notion.site/TIL-ee6830b8923f44e2951f13ad55516e69" target="_blank"><img src="./img/notion.png"></a>
+<a href="https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90" target="_blank"><img src="./img/evernote.png"></a>
 
 <br>
 
 
+## Contribution
+<img src="./img/committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px"> 
+
+<br><br>
 
 ## 🔥 Rules 🔥
     * 주 5일 이상 기록한다.
@@ -22,10 +32,6 @@
 
 <br>
 
-
-
-
-<br>
 
 ## 👇 Weekly goal (2022.01.17)
     > 알고리즘/자료구조 학습
@@ -71,3 +77,7 @@
     저작권 문제로 교재 내용을 정리한 노션글은 비공개로 게시합니다.
 * [자료구조와 알고리즘](https://www.notion.so/0f813f34ce244e28b2bf12a8b3dd9fb4)
 * [Clean Code](https://www.notion.so/Clean-Code-7707ec8fcf70425d8c36a9ed9aa03962)
+
+
+
+<br>
