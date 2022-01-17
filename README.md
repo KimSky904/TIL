@@ -8,6 +8,8 @@
 
 <br>
 
+
+
 ## 🔥 Rules 🔥
     * 주 5일 이상 기록한다.
     * 의미 없는 기록과 커밋은 금지한다.
@@ -20,13 +22,21 @@
 
 <br>
 
-## 👇 Weekly goal (2022.01.11)
-    > 공백
+
+
+
+<br>
+
+## 👇 Weekly goal (2022.01.17)
+    > 알고리즘/자료구조 학습
+    > 개인 pj에 집중
+    > spring 기초 내용 학습
 
 ## 👇 Monthly goal (2022.01.15)
     > Cospro Java 1급
     > Cospro C 2급
-    > [clone] 개인 pj 준비과정 기록
+    > spring 완강
+    > 개인 pj 준비과정 기록
 
 <br>
 
@@ -50,4 +60,14 @@
 
 <br>
 
-## spring
+## spring   
+* [overview](./Python/overview.md)
+* [basic syntax](./Python/basic-syntax.md)
+   
+<br>
+
+## Algorithm
+    알고리즘은 대부분 교재를 통해 배웁니다.
+    저작권 문제로 교재 내용을 정리한 노션글은 비공개로 게시합니다.
+* [자료구조와 알고리즘](https://www.notion.so/0f813f34ce244e28b2bf12a8b3dd9fb4)
+* [Clean Code](https://www.notion.so/Clean-Code-7707ec8fcf70425d8c36a9ed9aa03962)
