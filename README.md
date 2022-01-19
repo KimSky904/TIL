@@ -9,9 +9,9 @@
 <br>
 
 
-## Contribution
+## Weekly Contribution 
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
@@ -48,33 +48,50 @@
 
 
 ## Chapter
+*** 
+
 🎈 [Kotlin](#Kotlin)  
 🎈 [Python](#Python)  
-🎈 [spring](#Python)
+🎈 [spring](#Python)   
+🎈 [Coding Test](#Coding-Test)  
+🎈 [Algorithm](#Algorithm)
 
 <br>
 
 ## Kotlin
+***
 * [overview](./Kotlin/overview.md)
 * [basic syntax](./Kotlin/basic-syntax.md)
 
 <br>
 
 ## Python
+***
 * [overview](./Python/overview.md)
 * [basic syntax](./Python/basic-syntax.md)
 
 <br>
 
-## spring   
+<!--
+## spring
+***   
 * [overview](./Python/overview.md)
 * [basic syntax](./Python/basic-syntax.md)
-   
+-->
+<br>
+
+## Coding Test
+***
+* [Cospro Java 1](https://github.com/KimSky904/CodingTest/tree/master/YBMIT/COSPRO1%EA%B8%89/JAVA)
+* [Cospro Python 2](https://github.com/KimSky904/CosProPython)
+
+
 <br>
 
 ## Algorithm
     알고리즘은 대부분 교재를 통해 배웁니다.
     저작권 문제로 교재 내용을 정리한 노션글은 비공개로 게시합니다.
+***
 * [자료구조와 알고리즘](https://www.notion.so/0f813f34ce244e28b2bf12a8b3dd9fb4)
 * [Clean Code](https://www.notion.so/Clean-Code-7707ec8fcf70425d8c36a9ed9aa03962)
 
