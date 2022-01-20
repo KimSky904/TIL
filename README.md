@@ -13,7 +13,7 @@
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
