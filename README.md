@@ -9,12 +9,13 @@
 <br>
 
 
-## Contribution
+## Weekly Contribution
+
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
@@ -62,6 +63,13 @@
 
 * [overview](./Kotlin/overview.md)
 * [basic syntax](./Kotlin/basic-syntax.md)
+* [제어문]()
+* [객체지향 프로그래밍]()
+* [클래스]()
+* [함수형 프로그래밍]()
+* [컬랙션]()
+* [예외처리]()
+
 
 <br>
 
@@ -70,14 +78,15 @@
 * [overview](./Python/overview.md)
 * [basic syntax](./Python/basic-syntax.md)
 
+
 <br>
 
-
-## Android    
 
 
 
 <!--
+
+
 ## spring
 ***   
 * [overview](./Python/overview.md)

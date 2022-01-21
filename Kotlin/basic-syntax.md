@@ -42,7 +42,6 @@ kotlin은 기본적으로 print()를 사용한다.
     // Hello world!
     // 42
 ```
-# ${}이런거 추가
 
 
 
@@ -87,9 +86,16 @@ kotlin은 기본적으로 print()를 사용한다.
 
 상수가 아닌 일반 변수를 선언할 경우 키워드 var을 사용한다.
 ```kotlin
-    val x : Int = 5
-    val y = 6           //'Int' type이 유추됨
+    var x : Int = 5
+    var y = 6           //'Int' type이 유추됨
 ``` 
+
+
+## 형변환
+변환하고자 하는 자료형의 앞에 to를 붙이면 끝이다.
+
+
+
 <br><br>
 
 ## 클래스 생성
@@ -161,7 +167,7 @@ Kotlin에서는 단일 표현으로 if문을 사용할 수 있다.
 
 
 ## 반복문
-for문 1
+list의 내용을 출력하는 for (1)
 ```kotlin
     val items = listOf("apple", "banana", "kiwifruit")
     for (it in items) {
@@ -171,14 +177,42 @@ for문 1
     //  banana
     //  kiwifruit 
 ```
-for문 2
+list의 내용을 출력하는 for (2)
 ```kotlin
     val items = listOf("apple", "banana", "kiwifruit")
     for (index in items.indices) {
         println("item at $index is ${items[index]}")
     }
 ```
-while문
+0~9의 값을 출력하는 for
+```kotlin
+    for (i in 0..9) {
+        println(i)
+    }
+```
+9~0의 값을 출력하는 for
+```kotlin
+    for (i in 9 downTo 0) {
+        println(i)
+    }
+```
+1,3,5,7,9의 값을 출력하는 for
+```kotlin
+    for (i in 0..9 step 2) {
+        println(i)
+    }
+```
+'a'~'e'를 출력하는 for
+```kotlin
+    for (i in 'a'..'e') {
+        println(i)
+    }
+```
+
+
+<br><br>
+
+## while문
 ```kotlin
     val items = listOf("apple", "banana", "kiwifruit")
     var index = 0
@@ -187,6 +221,24 @@ while문
         index++
     }
 ```
+
+
+
+## 흐름제어문
+break와 continue는 다른 언어와 동일, Kotlin에서는 loop(레이블)을 지원함
+```kotlin
+    loop@for(i in 0..100){
+        for(j in 1..10){
+            if(i==1&&j==10) break@loop
+        }
+    }
+```
+
+
+<br><br>
+
+
+
 
 
 ## when문
@@ -236,6 +288,3 @@ in 연산자를 사용하여
         print(x)
     }
 ```
-
-
-## Collections
