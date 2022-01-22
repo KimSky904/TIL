@@ -16,7 +16,7 @@
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
@@ -29,7 +29,6 @@
     * 월요일엔 일주일간의 목표를 세우고, 일요일엔 되돌아보는 시간을 가진다.
     * 모든 목표엔 우선순위를 매긴다.
     * 부담가지지 않는다. 공부한 만큼만 기록한다.
-    * evernote(pj) → notion → markdown → tistory의 순으로 기록한다.
 
 <br>
 
@@ -50,12 +49,12 @@
 
 ## Chapter
 
-
 🎈 [Kotlin](#Kotlin)  
 🎈 [Python](#Python)  
 🎈 [spring](#Python)   
 🎈 [Coding Test](#Coding-Test)  
-🎈 [Algorithm](#Algorithm)
+🎈 [Algorithm](#Algorithm)    
+🎈 [AWS](#AWS)
 
 <br>
 
@@ -81,6 +80,9 @@
 
 <br>
 
+## AWS
+* 인터넷   
+    + [IP와 도메인](./AWS/IP와-도메인.md)
 
 
 
