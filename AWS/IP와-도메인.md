@@ -85,24 +85,24 @@ DNS이 존재하기 때문이다.
 
     사용자는 주소창에 github.com 즉 도메인 네임(IP의 이름)을 입력한다.
 
-<img src="./img/search-github.png" >
+<img src="https://github.com/KimSky904/TIL/blob/master/AWS/img/search-github.PNG?raw=true"  >
 
 
     노트북은 github.com의 IP주소를 모른다.
     때문에 노트북은 Name Server에 'github.com'이라는 도메인 네임(IP의 이름)을 가진 웹서비스의 IP주소를 요청한다. 
 
-<img src="./img/name-server1.png" style="width: 480px" >
+<img src="https://github.com/KimSky904/TIL/blob/master/AWS/img/name-server1.PNG?raw=true" style="width: 480px">
 
 
     
     Name Server는 모든 도메인 네임(IP의 이름)과 IP의 관계를 알고 있는 서버이다. 즉 IP의 이름과 내용을 연결시켜주는 역할을 한다.
 
-<img src="./img/name-server2.png" target="_blank" style="width: 260px" ><img src="./img/name-server3.png" style="width: 500px">
+<img src="https://github.com/KimSky904/TIL/blob/master/AWS/img/name-server2.PNG?raw=true"  target="_blank"  style="width: 250px"><img src="https://github.com/KimSky904/TIL/blob/master/AWS/img/name-server3.PNG?raw=true" style="width: 480px" >
 
 
     Name Server가 github.com에 대한 IP주소를 응답하면, 노트북은 이제 원하는 사이트의 IP주소를 알기 때문에 해당 IP에 해당하는 컴퓨터(웹)에 접속할 수 있다.
 
-<img src="./img/name-server4.png" style="width: 480px">
+<img src="https://github.com/KimSky904/TIL/blob/master/AWS/img/name-server4.PNG?raw=true" style="width: 480px">
 
 
 
