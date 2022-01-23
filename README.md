@@ -17,7 +17,7 @@
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px"> 
+<img src="./img/committed.png" height="15px"> 
 
 <br><br>
 
@@ -83,6 +83,8 @@
 ## AWS
 * 인터넷   
     + [IP와 도메인](./AWS/IP와-도메인.md)
+    + [유동IP와 DDNS](./AWS/유동IP와-DDNS.md)
+* [클라우드 컴퓨팅](./AWS/클라우드-컴퓨팅.md)
 
 
 
