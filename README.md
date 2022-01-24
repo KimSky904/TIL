@@ -12,12 +12,12 @@
 ## Weekly Contribution
 
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px"> 
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
 
@@ -33,16 +33,16 @@
 <br>
 
 
-## 👇 Weekly goal (2022.01.17)
+## 👇 Weekly goal (2022.01.24)
     > 알고리즘/자료구조 학습
-    > 개인 pj에 집중
-    > spring 기초 내용 학습
+    > 코딩테스트 연습
+    > 컴활 1급 준비
 
-## 👇 Monthly goal (2022.01.15)
-    > Cospro Java 1급
+## 👇 Monthly goal (2022.01.24)
     > Cospro C 2급
-    > spring 완강
-    > 개인 pj 준비과정 기록
+    > Cospro JAVA 1급 (시험일정 미정)
+    > 토익
+    > 컴활 1급
 
 <br>
 
