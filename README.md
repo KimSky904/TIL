@@ -16,7 +16,7 @@
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
@@ -38,8 +38,8 @@
     > 코딩테스트 연습
     > 컴활 1급 준비
 
-## 👇 Monthly goal (2022.01.24)
-    > Cospro C 2급
+## 👇 Monthly goal (2022.01.29)
+    > Cospro C 2급 (완료)
     > Cospro JAVA 1급 (시험일정 미정)
     > 토익
     > 컴활 1급
@@ -94,7 +94,7 @@
 <br>
 
 ## Coding Test
-
+* [cospro 정리본](https://code-review.tistory.com/entry/Cospro-C-%EC%BD%94%EC%8A%A4%ED%94%84%EB%A1%9C-%EB%8B%B9%EC%9D%BC%EC%B9%98%EA%B8%B0-%EB%8F%84%EC%A0%84Groom-%EC%A0%84%EC%B2%B4-%EB%AC%B8%EC%A0%9C-%ED%92%80%EC%9D%B4)
 * [Cospro Java 1](https://github.com/KimSky904/CodingTest/tree/master/YBMIT/COSPRO1%EA%B8%89/JAVA)
 * [Cospro Python 2](https://github.com/KimSky904/CosProPython)
 * [Cospro C 2](https://github.com/KimSky904/CodingTest/tree/master/YBMIT/COSPRO1%EA%B8%89/C)
