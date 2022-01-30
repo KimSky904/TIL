@@ -17,7 +17,7 @@
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
 <img src="./img/committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px"> 
+<img src="./img/committed.png" height="15px"> 
 
 <br><br>
 
@@ -33,13 +33,12 @@
 <br>
 
 
-## 👇 Weekly goal (2022.01.24)
-    > 알고리즘/자료구조 학습
-    > 코딩테스트 연습
-    > 컴활 1급 준비
+## 👇 Weekly goal (2022.01.30)
+    > 꾸준한 코테 준비
+    > React
+    > Android-guide 작성
 
-## 👇 Monthly goal (2022.01.29)
-    > Cospro C 2급 (완료)
+## 👇 Monthly goal (2022.01.30)
     > Cospro JAVA 1급 (시험일정 미정)
     > 토익
     > 컴활 1급
@@ -51,7 +50,7 @@
 
 🎈 [Kotlin](#Kotlin)  
 🎈 [Python](#Python)  
-🎈 [spring](#Python)   
+🎈 [React](#React)   
 🎈 [Coding Test](#Coding-Test)  
 🎈 [Algorithm](#Algorithm)    
 🎈 [AWS](#AWS)
@@ -86,9 +85,10 @@
     + [유동IP와 DDNS](./AWS/유동IP와-DDNS.md)
 * [클라우드 컴퓨팅](./AWS/클라우드-컴퓨팅.md)
 
+<br>
 
-
-## spring
+## React  
+* [react 시작하기](./React/getting-start.md)
 
 
 <br>
