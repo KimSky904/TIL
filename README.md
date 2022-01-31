@@ -12,12 +12,12 @@
 ## Weekly Contribution
 
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
-<img src="./img/committed.png" height="15px"> 
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
 
@@ -33,13 +33,13 @@
 <br>
 
 
-## 👇 Weekly goal (2022.01.30)
+## 👇 Weekly goal (2022.01.31)
     > 꾸준한 코테 준비
     > React
     > Android-guide 작성
 
-## 👇 Monthly goal (2022.01.30)
-    > Cospro JAVA 1급 (시험일정 미정)
+## 👇 Monthly goal (2022.01.31)
+    > Cospro JAVA 1급 (3월 예정)
     > 토익
     > 컴활 1급
 
@@ -89,6 +89,10 @@
 
 ## React  
 * [react 시작하기](./React/getting-start.md)
+
+
+## Android
+* [Android 이해하기](https://code-review.tistory.com/entry/Android-1%EC%A3%BC%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0?category=1001061)
 
 
 <br>
