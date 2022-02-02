@@ -13,7 +13,7 @@
 
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
@@ -93,6 +93,7 @@
 
 ## Android
 * [Android 이해하기](https://code-review.tistory.com/entry/Android-1%EC%A3%BC%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0?category=1001061)
+* [Android-Guide](https://github.com/KimSky904/Android-guide)
 
 
 <br>
