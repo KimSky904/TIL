@@ -13,7 +13,7 @@
 
 <a target="_blank"><img src="./img/committed.png" height="15px"></a>
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
@@ -34,12 +34,11 @@
 
 
 ## 👇 Weekly goal (2022.01.31)
-    > 꾸준한 코테 준비
     > React
     > Android-guide 작성
+    > 개인 PJ 집중
 
 ## 👇 Monthly goal (2022.01.31)
-    > Cospro JAVA 1급 (3월 예정)
     > 토익
     > 컴활 1급
 
@@ -61,12 +60,12 @@
 
 * [overview](./Kotlin/overview.md)
 * [basic syntax](./Kotlin/basic-syntax.md)
-* [제어문]()
+<!-- * [제어문]()
 * [객체지향 프로그래밍]()
 * [클래스]()
 * [함수형 프로그래밍]()
 * [컬랙션]()
-* [예외처리]()
+* [예외처리]() -->
 
 
 <br>
@@ -89,7 +88,13 @@
 
 ## React  
 * [react 시작하기](./React/getting-start.md)
-
+* [기본 동작원리](./React/motion-principle.md)
+* [Data Binding](./React/DataBinding)
+    + [변수](./React/DataBinding/variable.md)
+    + [state](./React/DataBinding/creating-state.md)
+* [style 적용하기](./React/style-applying.md)
+* [event listener](./React/event-listener.md)
+* [Component](./React/component.md)
 
 ## Android
 * [Android 이해하기](https://code-review.tistory.com/entry/Android-1%EC%A3%BC%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0?category=1001061)
