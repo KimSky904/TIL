@@ -11,12 +11,12 @@
 
 ## Weekly Contribution
 
-<a target="_blank"><img src="./img/committed.png" height="15px"></a>
+<a target="_blank"><img src="./img/no-committed.png" height="15px"></a>
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
@@ -33,14 +33,11 @@
 <br>
 
 
-## 👇 Weekly goal (2022.01.31)
-    > React
-    > Android-guide 작성
+## 👇 Weekly goal (2022.02.17)
     > 개인 PJ 집중
 
-## 👇 Monthly goal (2022.01.31)
+## 👇 Monthly goal (2022.02.17)
     > 토익
-    > 컴활 1급
 
 <br>
 
