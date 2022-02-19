@@ -16,7 +16,7 @@
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
@@ -33,14 +33,11 @@
 <br>
 
 
-## 👇 Weekly goal (2022.01.31)
-    > React
-    > Android-guide 작성
+## 👇 Weekly goal (2022.02.17)
     > 개인 PJ 집중
 
-## 👇 Monthly goal (2022.01.31)
+## 👇 Monthly goal (2022.02.17)
     > 토익
-    > 컴활 1급
 
 <br>
 
@@ -58,15 +55,13 @@
 
 ## Kotlin
 
-* [overview](./Kotlin/overview.md)
-* [basic syntax](./Kotlin/basic-syntax.md)
-<!-- * [제어문]()
-* [객체지향 프로그래밍]()
-* [클래스]()
-* [함수형 프로그래밍]()
-* [컬랙션]()
-* [예외처리]() -->
-
+* [overview](./Kotlin/Kotlin이란.md)
+* [코틀린 기본](./Kotlin/코틀린기본.md)
+    * [변수와 형변환](./Kotlin/변수와-형변환.md)
+    * [조건문과 반복문](./Kotlin/조건문과-반복문.md)
+    * [범위의 표현](./Kotlin/범위표현.md)
+    * [함수](./Kotlin/함수.md)
+    * [클래스](./Kotlin/클래스.md)
 
 <br>
 
@@ -87,17 +82,18 @@
 <br>
 
 ## React  
-* [react 시작하기](./React/getting-start.md)
-* [기본 동작원리](./React/motion-principle.md)
-* [Data Binding](./React/DataBinding)
-    + [변수](./React/DataBinding/variable.md)
-    + [state](./React/DataBinding/creating-state.md)
-* [style 적용하기](./React/style-applying.md)
-* [event listener](./React/event-listener.md)
-* [Component](./React/component.md)
+* [react 개발환경 세팅](./React/개발환경설정.md)
+* [기본 동작원리](./React/기본-동작원리.md)
+* [Data Binding](./React/데이터바인딩)
+    + [변수](./React/데이터바인딩/변수.md)
+    + [state](./React/데이터바인딩/State.md)
+* [style 적용하기](./React/스타일-적용.md)
+* [event listener](./React/이벤트리스너.md)
+* [Component](./React/컴포넌트.md)
+
+<br>
 
 ## Android
-* [Android 이해하기](https://code-review.tistory.com/entry/Android-1%EC%A3%BC%EC%B0%A8-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0?category=1001061)
 * [Android-Guide](https://github.com/KimSky904/Android-guide)
 
 
