@@ -84,12 +84,12 @@
 ## React  
 * [react 개발환경 세팅](./React/개발환경설정.md)
 * [기본 동작원리](./React/기본-동작원리.md)
-* [Data Binding](./React/데이터바인딩)
+* [데이터 바인딩](./React/데이터바인딩)
     + [변수](./React/데이터바인딩/변수.md)
     + [state](./React/데이터바인딩/State.md)
-* [style 적용하기](./React/스타일-적용.md)
-* [event listener](./React/이벤트리스너.md)
-* [Component](./React/컴포넌트.md)
+* [style 적용](./React/스타일-적용.md)
+* [이벤트 리스너](./React/이벤트리스너.md)
+* [컴포넌트](./React/컴포넌트.md)
 
 <br>
 
