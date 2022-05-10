@@ -3,28 +3,26 @@
     start 2022.01.05 
 
 <a href="https://code-review.tistory.com/" target="_blank"><img src="./img/tistory.png"></a>
-<a href="https://foggy-silica-61a.notion.site/TIL-ee6830b8923f44e2951f13ad55516e69" target="_blank"><img src="./img/notion.png"></a>
-<a href="https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90" target="_blank"><img src="./img/evernote.png"></a>
+<a href="https://haneul.oopy.io/" target="_blank"><img src="./img/notion.png"></a>
+<!-- <a href="https://www.evernote.com/shard/s724/sh/17e5ce44-0bec-7f0d-73cf-98687cf14921/147dccda00c98884482556fe0e24bc90" target="_blank"><img src="./img/evernote.png"></a> -->
 
 <br>
 
 
 ## Weekly Contribution
 
-<a target="_blank"><img src="./img/committed.png" height="15px"></a>
-<img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px">
+<a target="_blank"><img src="./img/no-committed.png" height="15px"></a>
 <img src="./img/committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
 
 ## 🔥 Rules 🔥
-    * 주 5일 이상 기록한다.
     * 의미 없는 기록과 커밋은 금지한다.
-    * 프로젝트를 진행하지 않은 날에는 필수로 기록한다.
     * 하루의 기준은 새벽을 포함한 '자기 전'까지이다.
     * 월요일엔 일주일간의 목표를 세우고, 일요일엔 되돌아보는 시간을 가진다.
     * 모든 목표엔 우선순위를 매긴다.
@@ -33,11 +31,14 @@
 <br>
 
 
-## 👇 Weekly goal (2022.02.17)
-    > 개인 PJ 집중
+## 👇 Weekly goal (2022.05.10)
+    > 카카오벤쳐스 면접 준비
+    > IT쇼 준비
+    > Jetpack Compose
+    > Retrofit2
 
-## 👇 Monthly goal (2022.02.17)
-    > 토익
+## 👇 Monthly goal (2022.05.10)
+    > IT쇼 준비
 
 <br>
 
@@ -94,7 +95,8 @@
 <br>
 
 ## Android
-* [Android-Guide](https://github.com/KimSky904/Android-guide)
+* [Android Guide](https://github.com/KimSky904/Android-guide)
+* [Jetpack Compose](./Android/Jetpack/Compose/%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD%EC%84%A4%EC%A0%95.md)
 
 
 <br>
