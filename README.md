@@ -17,7 +17,7 @@
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/no-committed.png" height="15px"> 
+<img src="./img/committed.png" height="15px"> 
 
 <br><br>
 
