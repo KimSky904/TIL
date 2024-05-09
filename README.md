@@ -1,6 +1,7 @@
 # TIL  ( Today I Learned )
     하루동안 공부한 내용을 정리하고 기록합니다.  
-    start 2022.01.05 
+    start 2022.01.05 ~ 2022.05.15
+    restart 2024.05.09
 
 <a href="https://code-review.tistory.com/" target="_blank"><img src="./img/tistory.png"></a>
 <a href="https://haneul.oopy.io/" target="_blank"><img src="./img/notion.png"></a>
@@ -12,33 +13,26 @@
 ## Weekly Contribution
 
 <a target="_blank"><img src="./img/no-committed.png" height="15px"></a>
-<img src="./img/committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
 <img src="./img/no-committed.png" height="15px">
-<img src="./img/committed.png" height="15px"> 
+<img src="./img/no-committed.png" height="15px">
+<img src="./img/no-committed.png" height="15px"> 
 
 <br><br>
 
 ## 🔥 Rules 🔥
     * 의미 없는 기록과 커밋은 금지한다.
-    * 하루의 기준은 새벽을 포함한 '자기 전'까지이다.
-    * 월요일엔 일주일간의 목표를 세우고, 일요일엔 되돌아보는 시간을 가진다.
-    * 모든 목표엔 우선순위를 매긴다.
-    * 부담가지지 않는다. 공부한 만큼만 기록한다.
+    * 새벽을 포함하여 취침 전까지를 하루로 정한다.
+    * 월요일엔 일주일간의 목표를 세우고, 일요일엔 회고록을 작성한다. (Velog)
 
 <br>
 
 
-## 👇 Weekly goal (2022.05.10)
-    > 카카오벤쳐스 면접 준비
-    > IT쇼 준비
-    > Jetpack Compose
-    > Retrofit2
-
-## 👇 Monthly goal (2022.05.10)
-    > IT쇼 준비
+## 👇 Weekly goal (2024.05.09)
+    
+## 👇 Monthly goal (2024.05.09)
 
 <br>
 
@@ -110,8 +104,6 @@
 <br>
 
 ## Algorithm
-    알고리즘은 대부분 교재를 통해 배웁니다.
-    저작권 문제로 교재 내용을 정리한 노션글은 비공개로 게시합니다.
 
 * [자료구조와 알고리즘](https://www.notion.so/0f813f34ce244e28b2bf12a8b3dd9fb4)
 * [Clean Code](https://www.notion.so/Clean-Code-7707ec8fcf70425d8c36a9ed9aa03962)
